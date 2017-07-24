@@ -1,0 +1,14 @@
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\bin\Debug\rttClientApp.exe.config
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\bin\Debug\rttClientApp.exe
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\bin\Debug\rttClientApp.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.csprojResolveAssemblyReference.cache
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\App.g.cs
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp_MarkupCompile.cache
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp_MarkupCompile.lref
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\MainWindow.baml
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.g.resources
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.Properties.Resources.resources
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.csproj.GenerateResource.Cache
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.exe
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\rttClientApp\obj\Debug\rttClientApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\bin\Debug\ComLib.dll
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\bin\Debug\ComLib.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\obj\Debug\ComLib.dll
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\obj\Debug\ComLib.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\bin\Debug\NLog.dll
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\bin\Debug\NLog.xml
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\ComLib\obj\Debug\ComLib.csprojResolveAssemblyReference.cache

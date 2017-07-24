@@ -1,0 +1,13 @@
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\RttClient.exe.config
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\RttClient.exe
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\RttClient.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.frmClient.resources
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.Properties.Resources.resources
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.csproj.GenerateResource.Cache
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.exe
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\obj\Debug\RttClient.csprojResolveAssemblyReference.cache
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\ComLib.dll
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\ComLib.pdb
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\NLog.dll
+C:\Users\katlego.chokoe\Documents\Code\rtt\rttClientApp\RttClient\bin\Debug\NLog.xml
